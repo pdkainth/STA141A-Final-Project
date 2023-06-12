@@ -1,5 +1,5 @@
 # STA141A-Final-Project
-Repository for STA 141A Final Project Spring 2023
+Repository for STA 141A Final Project Spring 2023 Prabhdeep Kainth
 
 To convert jupyter notebook to html file without the code use command
 
